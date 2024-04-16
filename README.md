@@ -11,6 +11,20 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
    [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,js,html,jira,sql)](https://skillicons.dev)
 
 </div>
+
+
+* ::heartbeat: : Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, emocionada de poder aplicar mis nuevos conocimientos.
+
+* 🌟: Actualmente estoy practicando con Selenium :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
+
+*:detective: :heartbeat: Entusiasmada por poner en practica mis conocimientos con pasion y calidad. 💚:
+
+* :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+* :e-mail: marthasanchezmarquez@gmail.com
+
+* :iphone: +52 33156 95297
+
 <!--
 **Martha120721/Martha120721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
