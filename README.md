@@ -20,7 +20,7 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
 
 * :detective: Entusiasmada por poner en practica mis conocimientos con pasion y calidad. 💚:
 
-* :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martha-verónica-sánchez-márquez/)
 
 * :e-mail: marthasanchezmarquez@gmail.com
 
