@@ -1,5 +1,9 @@
 ### Hi there 👋,Mi nombre es Martha Sanchez 😄
 
+
+💻 Tecnologies
+JavaScript Express.js MongoDB Next.js NGINX Node.js Postman React Vite Figma Photoshop Ilustrator After Effects
+
 <!--
 **Martha120721/Martha120721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
