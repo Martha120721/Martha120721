@@ -9,9 +9,9 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
 <div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,js,html,jira,sql)](https://skillicons.dev)
-
-</div>
 ---
+</div>
+
 <div id="header" align="left">
   
 * 💓: Actualmente estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, emocionada de poder aplicar mis nuevos conocimientos.
