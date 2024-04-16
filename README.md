@@ -8,7 +8,7 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
 ### :hammer_and_wrench:Tecnologias :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,unreal,js,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,js,html,jira,sql)](https://skillicons.dev)
 
 </div>
 <!--
