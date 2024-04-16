@@ -18,7 +18,7 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
 
 * 🌟: Actualmente estoy practicando con Selenium :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
 
-* :detective: Entusiasmada por poner en practica mis conocimientos con pasion y calidad. 💚:
+* :detective: Feliz y dispuesta en poner en práctica mis conocimientos con pasion y calidad. 💚:
 
 * :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martha-verónica-sánchez-márquez/)
 
