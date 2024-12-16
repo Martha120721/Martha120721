@@ -14,7 +14,7 @@ Pruebas de aplicaciones móviles (Android Studio) y manejo de pruebas automatiza
 
 <div id="header" align="left">
   
-* 💓: Actualmente soy egresada como QA Engineer en el BootCamp TripleTen, emocionada de poder aplicar mis nuevos conocimientos.
+* 💓: Actualmente soy egresada como QA Engineer en el BootCamp TripleTen y Bootcamp QA Mindslab, emocionada de poder aplicar mis nuevos conocimientos.
 
 * 🌟: Actualmente estoy practicando con Selenium :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:technologist:
 
